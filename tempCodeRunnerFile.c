@@ -1,0 +1,1 @@
+intf("sizeof(str):%d", sizeof(&str));
